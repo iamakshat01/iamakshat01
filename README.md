@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Akshat, a third-year Information Technology student at IIIT Gwalior. I have extensive hands-on experience with React.js, Node.js, Express.js, Fastify, MongoDB, and React Native. 
+I'm Akshat, a third-year Information Technology student at IIIT Gwalior. I have extensive hands-on experience with React.js, Next.js, Node.js, Express.js, Fastify, MongoDB, and React Native. 
 
 Previously, I was a Pre-Fellow at [Major League Hacking](https://fellowship.mlh.io/) and Extern at [Jumbotail](https://jumbotail.com/).
 
