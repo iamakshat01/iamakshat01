@@ -20,6 +20,7 @@ I'm Akshat, a third-year Information Technology student at IIIT Gwalior. I have 
 Previously, I was a Pre-Fellow at [Major League Hacking](https://fellowship.mlh.io/) and Extern at [Jumbotail](https://jumbotail.com/).
 
 My projects include:  
+- 👩🏻‍🏫 [E-Gurukul](https://e-gurukul.netlify.app/), an e-learning management portal for institutions.
 - 🕛 [Dev Friend](https://marketplace.visualstudio.com/items?itemName=DevFriend.dev-friend), A VS Code extension to enhance developers productivity.
 - 🩸 [Ofactor](https://ofactor.netlify.app/), a web app for medical organisations to find blood donors.
 - 💰 [Jumbocash](https://jumbocash.netlify.app/), a cash flow management portal for MSME's. 
