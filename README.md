@@ -22,10 +22,10 @@ Previously, I was a Pre-Fellow at [Major League Hacking](https://fellowship.mlh.
 
 My projects include:  
 - 👩🏻‍🏫 [E-Gurukul](https://e-gurukul.netlify.app/), an e-learning management portal for institutions.
-- 🕛 [Dev Friend](https://marketplace.visualstudio.com/items?itemName=DevFriend.dev-friend), A VS Code extension to enhance developers productivity.
+- 🧿 [Quick Poll](https://quickpoll-one.vercel.app/), a web based polling application.
 - 🩸 [Ofactor](https://ofactor.netlify.app/), a web app for medical organisations to find blood donors.
 - 💰 [Jumbocash](https://jumbocash.netlify.app/), a cash flow management portal for MSME's. 
-- 🧿 [Quick Poll](https://quickpoll-one.vercel.app/), a web based polling application.
+- 🕛 [Dev Friend](https://marketplace.visualstudio.com/items?itemName=DevFriend.dev-friend), A VS Code extension to enhance developers productivity.
 - 👩🏻‍🏫 [Sam Vedah](https://samvedah.netlify.app/), an application to find free mentors for school students.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/mangal-akshat/), or you can [email me](mailto:akshatmangaliiitg@gmail.com). Thanks! 
