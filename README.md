@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm Akshat, a fourth-year Information Technology student at IIIT Gwalior. Currently I am working as **Software Engineering Fellow** with [Major League Hacking](https://fellowship.mlh.io/) working on Vyper Protocol in Solana Ecosystem.
-I have extensive hands-on experience with React.js, Next.js, Node.js, Express.js, Fastify, MongoDB, and React Native. 
+I have extensive hands-on experience with Rust, Typescript, React.js, Next.js, Node.js, Express.js, Fastify, MongoDB, and React Native. 
 
 Previously, I was a Pre-Fellow at [Major League Hacking](https://fellowship.mlh.io/) and Extern at [Jumbotail](https://jumbotail.com/).
 
