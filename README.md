@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **aidenszeto/aidenszeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Akshat, a fourth-year Information Technology student at IIIT Gwalior. Currently I am working as **Software Engineering Fellow** with [Major League Hacking](https://fellowship.mlh.io/) working on Vyper Protocol in Solana Ecosystem.
-I have extensive hands-on experience with Rust, Typescript, React.js, Next.js, Node.js, Express.js, Fastify, MongoDB, and React Native. 
+I'm Akshat, a fourth-year student at IIIT Gwalior pursuing Integrated Masters in Information Technology. I have extensive hands-on experience with Typescript, React.js, Next.js, Node.js, Rust, NLP and Deep learning. 
 
-Previously, I was a Pre-Fellow at [Major League Hacking](https://fellowship.mlh.io/) and Extern at [Jumbotail](https://jumbotail.com/).
+👨‍🎓  [Here's my Resume]().
 
-My projects include:  
+## Work Experience
+
+| 🏢 Company | 💼 Role | ⏰ Duration |
+| --- | --- | --- |
+| [Cypherock](https://www.cypherock.com) | SDE Intern | Jan 2023 - March 2023 |
+| [Vyper Protocol](https://www.vyperprotocol.io/) | Open Source Developer | Aug 2022 - Dec 2022 |
+| [Major League Hacking](https://fellowship.mlh.io/) | Software Engineering Fellow | May 2022 - August 2022 |
+| [Crio Winter of Doing](https://www.crio.do/crio-winter-of-doing/) | Externship | Feb 2021 - March 2021 |
+
+## Open Source Contributions
+- Vyper SDK - Merged around 11 [Pull Requests](https://github.com/vyper-protocol/vyper-core/pulls?q=is%3Apr+is%3Aclosed+author%3Aiamakshat01)
+- Vyper CLI - Merged around 18 [Pull Requests](https://github.com/vyper-protocol/vyper-cli/pulls?q=is%3Apr+author%3Aiamakshat01+)
+
+## My Projects
 - 👩🏻‍🏫 [E-Gurukul](https://e-gurukul.netlify.app/), an e-learning management portal for institutions.
 - 🧿 [Quick Poll](https://quickpoll-one.vercel.app/), a web based polling application.
 - 🩸 [Ofactor](https://ofactor.netlify.app/), a web app for medical organisations to find blood donors.
