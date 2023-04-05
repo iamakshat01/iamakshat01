@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Akshat, a fourth-year student at IIIT Gwalior pursuing Integrated Masters in Information Technology. I have extensive hands-on experience with Typescript, React.js, Next.js, Node.js, Rust, NLP and Deep learning. 
 
-👨‍🎓  [Here's my Resume]().
+👨‍🎓  [Here's my Resume](https://drive.google.com/file/d/1wbp0yOwvWVIvAFr0z70ukKD7RKYTmzBs/view?usp=sharing).
 
 ## Work Experience
 
