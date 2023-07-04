@@ -23,6 +23,7 @@ I'm Akshat, a fourth-year student at IIIT Gwalior pursuing Integrated Masters in
 
 | 🏢 Company | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
+| [Rudderstack](https://www.rudderstack.com) | SDE Intern | May 2023 - June 2023 |
 | [Cypherock](https://www.cypherock.com) | SDE Intern | Jan 2023 - March 2023 |
 | [Vyper Protocol](https://www.vyperprotocol.io/) | Open Source Developer | Aug 2022 - Dec 2022 |
 | [Major League Hacking](https://fellowship.mlh.io/) | Software Engineering Fellow | May 2022 - August 2022 |
