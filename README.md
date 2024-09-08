@@ -15,14 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Akshat, a fourth-year student at IIIT Gwalior pursuing Integrated Masters in Information Technology. I have extensive hands-on experience with Typescript, React.js, Next.js, Node.js, Rust, NLP and Deep learning. 
+I'm Akshat, a a recent graduate from IIIT Gwalior, currently working as a Full-Time Employee at Oracle. I have extensive hands-on experience with Typescript, React.js, Next.js, Node.js, Rust, NLP and Deep learning. 
 
-👨‍🎓  [Here's my Resume](https://drive.google.com/file/d/1wbp0yOwvWVIvAFr0z70ukKD7RKYTmzBs/view?usp=sharing).
+👨‍🎓  [Here's my Resume](https://drive.google.com/file/d/1UmphukfkwFTTu2V8PsUWoXKrvJXD_f-g/view).
 
 ## Work Experience
 
 | 🏢 Company | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
+| [Oracle](https://www.oracle.com) | SDE-1 | July 2024 - Present |
+| [Oracle](https://www.oracle.com) | Project Intern | Jan 2024 - July 2024 |
 | [Rudderstack](https://www.rudderstack.com) | SDE Intern | May 2023 - June 2023 |
 | [Cypherock](https://www.cypherock.com) | SDE Intern | Jan 2023 - March 2023 |
 | [Vyper Protocol](https://www.vyperprotocol.io/) | Open Source Developer | Aug 2022 - Dec 2022 |
@@ -41,4 +43,4 @@ I'm Akshat, a fourth-year student at IIIT Gwalior pursuing Integrated Masters in
 - 🕛 [Dev Friend](https://marketplace.visualstudio.com/items?itemName=DevFriend.dev-friend), A VS Code extension to enhance developers productivity.
 - 👩🏻‍🏫 [Sam Vedah](https://samvedah.netlify.app/), an application to find free mentors for school students.
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/mangal-akshat/), or you can [email me](mailto:akshatmangaliiitg@gmail.com). Thanks! 
+You can find me on [LinkedIn](https://www.linkedin.com/in/mangal-akshat/), or you can [email me](mailto:akshatmangal1105@gmail.com). Thanks! 
